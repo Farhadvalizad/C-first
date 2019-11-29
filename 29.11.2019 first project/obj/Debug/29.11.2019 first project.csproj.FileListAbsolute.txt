@@ -1,0 +1,6 @@
+C:\Users\Farhad\source\repos\29.11.2019 first project\29.11.2019 first project\bin\Debug\29.11.2019 first project.exe.config
+C:\Users\Farhad\source\repos\29.11.2019 first project\29.11.2019 first project\bin\Debug\29.11.2019 first project.exe
+C:\Users\Farhad\source\repos\29.11.2019 first project\29.11.2019 first project\bin\Debug\29.11.2019 first project.pdb
+C:\Users\Farhad\source\repos\29.11.2019 first project\29.11.2019 first project\obj\Debug\29.11.2019 first project.csprojAssemblyReference.cache
+C:\Users\Farhad\source\repos\29.11.2019 first project\29.11.2019 first project\obj\Debug\29.11.2019 first project.exe
+C:\Users\Farhad\source\repos\29.11.2019 first project\29.11.2019 first project\obj\Debug\29.11.2019 first project.pdb
